@@ -1,0 +1,2 @@
+import{T as t}from"./Text.3f79dbfb.js";import"./index.module.d50213ea.js";import"./index.85b8ac62.js";import"./iframe.46a4dc1b.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.62ed534c.js";const a={title:"Components/Text",component:t,args:{children:"Create account",size:"md"},argTypes:{}},i={},n=["Default"];export{i as Default,n as __namedExportsOrder,a as default};
+//# sourceMappingURL=Text.stories.cda5aa3c.js.map
